@@ -1,0 +1,1 @@
+# go through instructions backwards. When reaching input, pick highest possible value each time.
